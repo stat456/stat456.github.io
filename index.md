@@ -87,195 +87,148 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Weekly Materials
 
-- Suggested Reading:
-  - 505 materials _(optional)_
-  
-- Weekly Notes: 
-  - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
- 
+- Homework 1, due Tuesday 24th
+
 ##### Class Overview 
 
-- Wednesday January 19: Course Overview and Class Conversation
-
-- Friday January 21: Recap of STAT 505 (LMs)
+- Thursday January 19: Course Overview and Introductory Activity
 
 ---
 
 #### Week Two: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Chapter 15.1 - Chapter 15.2
-- [Quiz 1](https://stat506.github.io/Quiz1/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rpTYJqzI))
 
-- Weekly Notes:   
-    - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
-    - [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
+- Video Lectures:
+- Suggested Reading:    
+ 
 
 ##### Class Overview
 
-- Monday January 24: 
+- Tuesday January 24: 
 
-- Wednesday January 26: 
-
-- Friday January 28: 
+- Thursday January 26: 
 
 ---
 
 #### Week Three: 
 
 ##### Weekly Materials
-- Suggested Reading: 
-  - ROS Chapter 15.3
-  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
-  - [Quiz 2](https://stat506.github.io/quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM)) ([Quiz2 key](https://github.com/STAT506/quiz2/blob/main/Quiz2.pdf))
 
-- Weekly Notes: 
-  - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
+- Video Lectures:
+- Suggested Reading:    
+
 
 ##### Class Overview
 
-- Monday January 31: 
+- Tuesday January 31: 
 
-- Wednesday February 2: 
-
-- Friday February 4:
+- Thursday February 2: 
 
 ---
 
 #### Week Four: 
 
 ##### Weekly Materials
-- Suggested Reading: 
-  - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday Feb 10. ([Quiz 3 key](https://github.com/STAT506/quiz3/blob/main/Quiz3key.pdf))
-  - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday Feb 10. ([HW 1 key](https://github.com/STAT506/homework1/blob/main/HW1_2022key.pdf))
 
+- Video Lectures:
+- Suggested Reading:    
 
-- Weekly Notes: 
-  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
-  - [Mixture Models](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.pdf) ([RMD Source](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.Rmd))
 
 ##### Class Overview
 
-- Monday February 7: 
+- Tuesday February 7: 
 
-- Wednesday February 9: 
-
-- Friday February 11: 
+- Thursday February 9: 
 
 ---
 
 #### Week Five: 
 
 ##### Weekly Materials
-- Suggested Reading: 
-  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
-- [Quiz 4](https://github.com/STAT506/quiz4/blob/main/Quiz4.pdf) ([Download GitHub Repo](https://classroom.github.com/a/x7PAayRc)) Due EOD Thursday Feb 17. 
-
-  - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
-
+- Video Lectures:
+- Suggested Reading:    
 
 
 ##### Class Overview
 
-- Monday February 14: __No Class: Attend Statistics Seminar__
+- Tuesday February 14: 
 
-- Wednesday February 16:
-
-- Friday February 18: 
+- Thursday February 16:
 
 ---
 
 #### Week Six: 
 
 ##### Weekly Materials
-- ~~Quiz 5 Due EOD Thursday.~~ 
-- [Project 1](https://github.com/STAT506/project_1/blob/main/Project1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/P7ffHYnI)) Due EOD Thursday Feb 24
 
-- [More Linear Algebra](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
-
+- Video Lectures:
+- Suggested Reading:    
 
 ##### Class Overview
 
-- Monday February 21: __No Class President's Day__
+- Tuesday February 21: 
 
-- Wednesday February 23: 
+- Thursday February 23: 
 
-- Friday February 25:
 
 ---
 
 #### Week Seven: 
 
 ##### Weekly Materials
-- [Quiz 5](https://github.com/STAT506/quiz5/blob/main/Quiz5.pdf) ([Download GitHub Repo](https://classroom.github.com/a/ratjUohT)) Due EOD Thursday March 3. 
 
-- Suggested Reading: ROS CH. 16
+- Video Lectures:
+- Suggested Reading:    
 
-  - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
 ##### Class Overview
 
-- Monday February 28:
+- Tuesday February 28:
 
-- Wednesday March 2:
-
-- Friday March 4: 
+- Thursday March 2:
 
 ---
 
 #### Week Eight: 
 
 ##### Weekly Materials
-- [Quiz 6](https://github.com/STAT506/quiz6/blob/main/Quiz6.md) ([Download GitHub Repo](https://classroom.github.com/a/gnUDpiDo)) Due EOD Thursday March 10. 
-- [HW2](https://stat506.github.io/HWtwo/) ([Download GitHub Repo](https://classroom.github.com/a/uQsCtiLA)) Due EOD Thursday March 10. 
 
-- Suggested Reading: 
-  - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
-  - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
+- Video Lectures:
+- Suggested Reading:    
 
-- Weekly Notes:
-  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
- 
 
 ##### Class Overview
 
-- Monday March 7: 
+- Tuesday March 7: 
 
-- Wednesday March 9:
-
-- Friday March 11: 
+- Thursday March 9:
 
 ---
 
-#### Week Nine: 
+#### Week Nine: Spring Break
 
-- Monday March 14:  __spring break__
+- Tuesday March 14:  __spring break__
 
-- Wednesday March 16: __spring break__
-
-- Friday March 18: __spring break__
+- Thursday March 16: __spring break__
 
 ---
 
 #### Week Ten: 
 
 ##### Weekly Materials
-- [Project 2 Due EOD Sunday March 27](https://github.com/STAT506/Project_Two/blob/main/Project2_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/0MsJjdK9)).
 
-- Weekly Notes: 
-  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
-
-  - [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
+- Video Lectures:
+- Suggested Reading:    
 
 
 ##### Class Overview
 
-- Monday March 21: 
+- Tuesday March 21: 
 
-- Wednesday March 23:
+- Thursday March 23:
 
-- Friday March 25:
 
 ---
 
@@ -285,119 +238,99 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 - Suggested Reading: 
-  - ARM CH12
-  - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
-- Weekly Notes: 
-  - [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
 
-  - [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
+- Video Lectures:
+- Suggested Reading:    
 
 ##### Class Overview
 
-- Monday March 28: 
+- Tuesday March 28: 
 
-- Wednesday March 30: 
-
-- Friday April 1: 
+- Thursday March 30: 
 
 ---
 
 #### Week Twelve: 
 
 ##### Weekly Materials
-- Suggested Reading: 
 
-- Weekly Notes: 
-- [HW3](https://stat506.github.io/HW3_2022/) ([Download GitHub Repo](https://classroom.github.com/a/8M8MHFXc)) Due EOD Thursday April 7
-
+- Video Lectures:
+- Suggested Reading:    
 
 ##### Class Overview
 
-- Monday April 4: 
+- Tuesday April 4: 
 
-- Wednesday April 6:
-
-- Friday April 8: __No Class__, work on [Stein Paradox HW](https://github.com/STAT506/HW4_Stein/blob/main/HW4_Stein.pdf) ([Download GitHub Repo](https://classroom.github.com/a/pJiRnViA)) Due EOD Thursday April 14
+- Thursday April 6:
 
 ---
 
 #### Week Thirteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
 
-- Weekly Notes: 
-  - [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
- 
+- Video Lectures:
+- Suggested Reading:    
+
 
 ##### Class Overview
 
-- Monday April 11: 
+- Tuesday April 11: 
 
-- Wednesday April 13: 
+- Thursday April 13: 
   
-- Friday April 15: __No Class University Day__
-
 ---
 
 #### Week Fourteen: 
 
 ##### Weekly Materials
-- [HW5](https://github.com/STAT506/homework_5/blob/main/HW5.md) ([Download GitHub Repo](https://classroom.github.com/a/bQE8mQz2)) Due Monday April 25
-- [Quiz7](https://stat506.github.io/Quiz7/) ([Download GitHub Repo](https://classroom.github.com/a/UfWEOroM)) Due Monday April 25
-- Weekly Notes: 
-  - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
-  - [causal inference & regression](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/CausualRegression.Rmd))
+
+- Video Lectures:
+- Suggested Reading:    
 
 
 ##### Class Overview
 
-- Monday April 18: 
+- Tuesday April 18: 
 
-- Wednesday April 20:
-
-- Friday April 22: [STAN Demo](https://github.com/STAT506/Stan) ([Download GitHub Repo](https://classroom.github.com/a/NGiBewd2)) ([Demo Key](https://github.com/STAT506/Stan/blob/main/StanDemoKey.pdf))
+- Thursday April 20:
 
 ---
 
 #### Week Fifteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
 
-- Weekly Notes: 
-  - [More Causal Inference](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.pdf) ([RMD Source Code](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.Rmd))
-  - [Observational Studies](https://github.com/STAT506/Causal_Inference/blob/main/observationStudy.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/observationStudy.Rmd))
-
+- Video Lectures:
+- Suggested Reading:    
 
 ##### Class Overview
 
-- Monday April 25: [Take Home Final Exam](https://github.com/STAT506/Final_2022) ([Download GitHub Repo](https://classroom.github.com/a/y1NcwJTl))
+- Tuesday April 25:
 
-- Wednesday April 27:
-
-- Friday April 29: In Class Final Exam Review
+- Thursday April 27:
 
 ---
 
 #### Week Sixteen: 
 
+##### Weekly Materials
+
+- Video Lectures:
+- Suggested Reading:    
 
 
 ##### Class Overview
 
-- Monday May 2: Take Home Final Exam Due, In class final exam ([OLD TAKE HOME EXAM](https://github.com/STAT506/finalexam/blob/main/Final_S2021.pdf))
+- Tuesday May 2: 
 
-- Wednesday May 4: __Writing Project Presentation Idea Meeting__
-
-- Friday May 6: 
+- Thursday May 4: 
 
 ---
 
 #### Week Seventeen: Finals Week
 
-- Monday May 9, 10 - 11:50: [Project 3 presentation](https://github.com/STAT506/project_three/blob/main/Project3_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/ynyvTXTr))
-
+- Tuesday May 9, 8 - 9:50:
 
 
 
