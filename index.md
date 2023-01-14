@@ -95,12 +95,13 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Two: 
+#### Week Two: Bayesian Analysis and Statistical Models
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+ -   
+- Course Reading: Ch 1 & Ch 2   
  
 
 ##### Class Overview
@@ -111,12 +112,12 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Three: 
+#### Week Three: Probability and Monte Carlo Procedures in R 
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Course Reading: Ch 4
 
 
 ##### Class Overview
@@ -127,12 +128,12 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Four: 
+#### Week Four: Conditional Probability and Bayes Rule
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Course Reading: Ch 5
 
 
 ##### Class Overview
@@ -143,12 +144,12 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Five: 
+#### Week Five: Binomial Probability, Exact Analysis
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Course Reading: Ch 6
 
 
 ##### Class Overview
@@ -159,12 +160,12 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Six: 
+#### Week Six: Markov Chain Monte Carlo
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Course Reading: Ch 7  
 
 ##### Class Overview
 
@@ -175,12 +176,12 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Seven: 
+#### Week Seven: Normal Distribution
 
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Course Reading: Ch 16
 
 
 ##### Class Overview
@@ -191,7 +192,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Eight: 
+#### Week Eight: Exam Week
 
 ##### Weekly Materials
 
@@ -215,7 +216,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Ten: 
+#### Week Ten: Bayesian T-Tests
 
 ##### Weekly Materials
 
@@ -232,7 +233,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Eleven: 
+#### Week Eleven: Bayesian Regression
 
 ##### Weekly Materials
 
@@ -250,7 +251,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Twelve: 
+#### Week Twelve: Bayesian Generalized Linear Models
 
 ##### Weekly Materials
 
@@ -265,7 +266,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week Thirteen: 
+#### Week Thirteen: Bayesian Hierarchical Models
 
 ##### Weekly Materials
 
