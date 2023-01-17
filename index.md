@@ -87,7 +87,6 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Weekly Materials
 
-- Homework 1, due Tuesday 24th
 
 ##### Class Overview 
 
@@ -99,8 +98,8 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Weekly Materials
 
-- Video Lectures:
- -   
+- Homework 0, due Tuesday January 24th
+- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897)
 - Course Reading: Ch 1 & Ch 2   
  
 
