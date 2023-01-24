@@ -19,7 +19,7 @@
 ##### Weekly Materials
 
 - [Homework 0, due Tuesday January 24th](https://github.com/stat456/HW/raw/main/HW0.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/HW/main/HW0.Rmd)) (Submit to Gradescope)
-- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture2.Rmd))
+- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week2.Rmd))
 
 - Course Reading: Ch 1 & Ch 2   
  
