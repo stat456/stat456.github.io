@@ -28,7 +28,8 @@
 
 - Tuesday January 24: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd))
 
-- Thursday January 26: 
+- Thursday January 26: Lab 1
+
 ---
 
 #### Week Three: Probability and Monte Carlo Procedures in R 
