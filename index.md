@@ -33,7 +33,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures:
+- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd))
 - Course Reading: Ch 4
 
 
