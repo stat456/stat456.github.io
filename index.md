@@ -23,7 +23,7 @@
 
 ##### Class Overview
 
-- Tuesday January 24: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd))
+- Tuesday January 24: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd)) 
 
 - Thursday January 26: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to D2L by Tuesday, January 31)
 
@@ -33,7 +33,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd))
+- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd)) (Submit Notes to D2L)
 - Course Reading: Ch 4
 
 
