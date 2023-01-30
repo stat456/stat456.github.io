@@ -39,7 +39,7 @@
 
 ##### Class Overview
 
-- Tuesday January 31: 
+- Tuesday January 31: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity3.Rmd))
 
 - Thursday February 2: 
 
