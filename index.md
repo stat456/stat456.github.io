@@ -25,7 +25,7 @@
 
 - Tuesday January 24: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd)) 
 
-- Thursday January 26: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to D2L by Tuesday, January 31)
+- Thursday January 26: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to D2L by Tuesday, January 31) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab1_2023_key.pdf), [RMD Key](https://github.com/stat456/labs/blob/main/Lab1_2023_key.Rmd))
 
 ---
 
@@ -39,9 +39,9 @@
 
 ##### Class Overview
 
-- Tuesday January 31: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity3.Rmd))
+- Tuesday January 31: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity3.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 2: 
+- Thursday February 2: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab2_2023.Rmd)) (Submit Lab to D2L)
 
 ---
 
