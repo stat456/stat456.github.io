@@ -41,7 +41,7 @@
 
 - Tuesday January 31: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity3.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 2: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab2_2023.Rmd)) (Submit Lab to D2L)
+- Thursday February 2: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab2_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 7 at 9:30 AM)
 
 ---
 
