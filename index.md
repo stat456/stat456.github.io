@@ -67,6 +67,7 @@
 
 - Video Lectures:
 - Course Reading: Ch 6
+- [HW 1](https://github.com/stat456/HW/blob/main/HW1_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW1_2023.Rmd)) (Due Tuesday Feb 14 at 9:30 AM, submit to D2L)
 
 
 ##### Class Overview
