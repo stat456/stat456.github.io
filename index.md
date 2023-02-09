@@ -57,7 +57,7 @@
 
 - Tuesday February 7: [Activity 4](https://github.com/stat456/Activities) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity4.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 9: 
+- Thursday February 9: [Lab 3](https://github.com/stat456/labs/blob/main/Lab3_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab3_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 14 at 9:30 AM)
 
 ---
 
