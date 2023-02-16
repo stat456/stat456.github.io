@@ -78,12 +78,13 @@
 
 ---
 
-#### Week Six: Markov Chain Monte Carlo
+#### Week Six: Bayesian Data Analysis + Markov Chain Monte Carlo
 
 ##### Weekly Materials
 
-- Video Lectures:
-- Course Reading: Ch 7  
+- Video Lectures: [Week 6 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7cf3f2-f2fb-47e4-b331-afab01581732) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week6.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week6.Rmd)) (Submit Notes to D2L)
+- Course Reading: Ch 7
+- [Jags Link](https://mcmc-jags.sourceforge.io)
 
 ##### Class Overview
 
