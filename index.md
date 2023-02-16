@@ -57,7 +57,7 @@
 
 - Tuesday February 7: [Activity 4](https://github.com/stat456/Activities) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity4.Rmd)) (Submit Activity to D2L) [Video Recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b04b52-e1f2-4814-9ab3-afa401033b51)
 
-- Thursday February 9: [Lab 3](https://github.com/stat456/labs/blob/main/Lab3_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab3_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 14 at 9:30 AM)
+- Thursday February 9: [Lab 3](https://github.com/stat456/labs/blob/main/Lab3_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab3_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 14 at 9:30 AM) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab3_2023_key.pdf)) ([RMD Key](https://github.com/stat456/labs/blob/main/Lab3_2023_key.Rmd))
 
 ---
 
@@ -74,7 +74,7 @@
 
 - Tuesday February 14: [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity5.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 16:
+- Thursday February 16: [Lab 4](https://github.com/stat456/labs/blob/main/Lab4_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab4_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 21 at 9:30 AM)
 
 ---
 
