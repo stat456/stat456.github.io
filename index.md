@@ -74,7 +74,7 @@
 
 - Tuesday February 14: [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity5.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 16: [Lab 4](https://github.com/stat456/labs/blob/main/Lab4_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab4_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 21 at 9:30 AM)
+- Thursday February 16: [Lab 4](https://github.com/stat456/labs/blob/main/Lab4_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab4_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 21 at 9:30 AM) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab4_2023_key.pdf)) ([RMD Key](https://github.com/stat456/labs/blob/main/Lab4_2023_key.Rmd))
 
 ---
 
@@ -90,7 +90,8 @@
 
 - Tuesday February 21: [Activity 6](https://github.com/stat456/Activities/blob/main/Activity6.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity6.Rmd)) (Submit Activity to D2L)
 
-- Thursday February 23: 
+- Thursday February 23: [Lab 5](https://github.com/stat456/labs/blob/main/Lab5_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab5_2023.Rmd)) (Submit Lab to D2L by Feb 28 at 9:30 AM)
+
 
 
 ---
