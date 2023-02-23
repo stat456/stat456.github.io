@@ -102,7 +102,7 @@
 
 - Video Lectures:
 - Course Reading: Ch 16
-
+- [HW 2](https://github.com/stat456/HW/blob/main/HW2_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW2_2023.Rmd)) (Due Thursday Mar 2, submit to D2L)
 
 ##### Class Overview
 
