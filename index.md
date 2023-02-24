@@ -136,7 +136,7 @@
 
 ---
 
-#### Week Ten: Bayesian T-Tests
+#### Week Ten: Markov Chain Monte Carlo details 
 
 ##### Weekly Materials
 
@@ -153,7 +153,7 @@
 
 ---
 
-#### Week Eleven: Bayesian Regression
+#### Week Eleven: Bayesian T-Tests & Bayesian Regression
 
 ##### Weekly Materials
 
