@@ -100,8 +100,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures:
-- Course Reading: Ch 16
+- Video Lectures: [Week 7 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad281f89-376f-4096-835f-afb301477b2e) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week7.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week7.Rmd)) (Submit to D2L)
 - [HW 2](https://github.com/stat456/HW/blob/main/HW2_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW2_2023.Rmd)) (Due Thursday Mar 2, submit to D2L)
 
 ##### Class Overview
