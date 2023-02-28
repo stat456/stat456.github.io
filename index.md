@@ -105,7 +105,7 @@
 
 ##### Class Overview
 
-- Tuesday February 28:
+- Tuesday February 28: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity7.Rmd)) (Submit Activity to D2L)
 
 - Thursday March 2:
 
