@@ -107,7 +107,12 @@
 
 - Tuesday February 28: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity7.Rmd)) (Submit Activity to D2L)
 
-- Thursday March 2:
+- Thursday March 2: No Lab, Finish Activity 7 / Work on old exams
+   - [Midterm 2018](https://github.com/stat456/Exams/blob/main/Midterm_S2018.pdf) ([RMD](https://github.com/stat456/Exams/blob/main/Midterm_S2018.Rmd))
+   - [Midterm 2018 (in class)](https://github.com/stat456/Exams/blob/main/Midterm_S2018_inclass.pdf)
+   - [Final 2018: Q1](https://github.com/stat456/Exams/blob/main/Final_S2018.pdf) ([RMD](https://github.com/stat456/Exams/blob/main/Final_S2018.Rmd))
+   - [Final 2018 (in class): haven't covered most of this](https://github.com/stat456/Exams/blob/main/Final_S2018_inclass.pdf)
+ 
 
 ---
 
@@ -121,9 +126,12 @@
 
 ##### Class Overview
 
-- Tuesday March 7: 
+- Tuesday March 7: Review Day
 
-- Thursday March 9:
+- Thursday March 9: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
+
+- Saturday March 11: Take Home Midterm Exam due at 8 AM.
+
 
 ---
 
