@@ -130,7 +130,8 @@
 
 - Thursday March 9: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
 
-- Saturday March 11: Take Home Midterm Exam due at 8 AM.
+- Monday March 11: Take Home Midterm Exam due at 8 AM.
+  - [PDF](https://github.com/stat456/Exams/blob/main/Midterm2023.pdf) ([RMD Source Code](https://github.com/stat456/Exams/blob/main/Midterm2023.Rmd))  
 
 
 ---
