@@ -144,19 +144,16 @@
 
 ---
 
-#### Week Ten: Markov Chain Monte Carlo details 
+#### Week Ten: Markov Chain Monte Carlo: Metropolis Algorithm
 
 ##### Weekly Materials
-
-- Video Lectures:
-- Suggested Reading:    
 
 
 ##### Class Overview
 
-- Tuesday March 21: 
+- Tuesday March 21: In class lecture: Metropolis Hastings ([PDF](https://github.com/stat456/Notes/blob/main/Week10.pdf)) ([RMD](https://github.com/stat456/Notes/blob/main/Week10.Rmd))
 
-- Thursday March 23:
+- Thursday March 23: 
 
 
 ---
@@ -164,7 +161,7 @@
 #### Week Eleven: Bayesian T-Tests & Bayesian Regression
 
 ##### Weekly Materials
-
+- [HW 3]() ([RMD Source Code]()) (Due Tuesday Mar 28, submit to D2L)
 
 - Suggested Reading: 
 
