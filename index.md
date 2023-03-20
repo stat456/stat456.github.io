@@ -158,7 +158,7 @@
 
 ---
 
-#### Week Eleven: Bayesian T-Tests & Bayesian Regression
+#### Week Eleven: Bayesian T-Tests 
 
 ##### Weekly Materials
 - [HW 3](https://github.com/stat456/HW/blob/main/HW3_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW3_2023.Rmd)) (Due Tuesday Mar 28, submit to D2L)
@@ -176,7 +176,7 @@
 
 ---
 
-#### Week Twelve: Bayesian Generalized Linear Models
+#### Week Twelve: Bayesian Regression
 
 ##### Weekly Materials
 
@@ -191,7 +191,7 @@
 
 ---
 
-#### Week Thirteen: Bayesian Hierarchical Models
+#### Week Thirteen: Bayesian GLMs 
 
 ##### Weekly Materials
 
@@ -207,7 +207,7 @@
   
 ---
 
-#### Week Fourteen: 
+#### Week Fourteen:  Project Presentations
 
 ##### Weekly Materials
 
@@ -223,7 +223,7 @@
 
 ---
 
-#### Week Fifteen: 
+#### Week Fifteen: Bayesian Hierarchical Models
 
 ##### Weekly Materials
 
