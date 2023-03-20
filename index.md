@@ -161,7 +161,7 @@
 #### Week Eleven: Bayesian T-Tests & Bayesian Regression
 
 ##### Weekly Materials
-- [HW 3]() ([RMD Source Code]()) (Due Tuesday Mar 28, submit to D2L)
+- [HW 3](https://github.com/stat456/HW/blob/main/HW3_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW3_2023.Rmd)) (Due Tuesday Mar 28, submit to D2L)
 
 - Suggested Reading: 
 
