@@ -153,7 +153,7 @@
 
 - Tuesday March 21: In class lecture: Metropolis Hastings ([PDF](https://github.com/stat456/Notes/blob/main/Week10.pdf)) ([RMD](https://github.com/stat456/Notes/blob/main/Week10.Rmd))
 
-- Thursday March 23: 
+- Thursday March 23: [Activity 8](https://github.com/stat456/Activities/blob/main/Activity8_key.pdf) ([RMD Source Code](https://github.com/stat456/Activities/blob/main/Activity8_key.Rmd))
 
 
 ---
@@ -211,8 +211,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures:
-- Suggested Reading:    
+- [Project Overview](https://github.com/stat456/Project/blob/main/ProjectOverview_2023.pdf)
 
 
 ##### Class Overview
