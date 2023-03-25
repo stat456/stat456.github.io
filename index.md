@@ -165,9 +165,8 @@
 
 - Suggested Reading: 
 
-- Video Lectures:
 
-- Video Lectures: Week 11 module ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to D2L)
+- Video Lectures: [Week 11 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00829575-8485-45bd-9fdd-afd0012cc1ce) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to D2L)
 - Suggested Reading:    
 
 ##### Class Overview
