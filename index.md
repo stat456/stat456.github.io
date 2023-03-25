@@ -166,6 +166,8 @@
 - Suggested Reading: 
 
 - Video Lectures:
+
+- Video Lectures: Week 11 module ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to D2L)
 - Suggested Reading:    
 
 ##### Class Overview
