@@ -163,7 +163,7 @@
 ##### Weekly Materials
 - [HW 3](https://github.com/stat456/HW/blob/main/HW3_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW3_2023.Rmd)) (Due Tuesday Mar 28, submit to D2L)
 
-- Suggested Reading: 
+- Suggested Reading: Ch. 11 & Ch. 12
 
 
 - Video Lectures: [Week 11 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00829575-8485-45bd-9fdd-afd0012cc1ce) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to D2L)
@@ -182,7 +182,8 @@
 ##### Weekly Materials
 
 - Video Lectures: [Week 12 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3b8e4a8-8442-4492-8646-afd501580f3f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week12_key.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek12_key.Rmd)) (Submit to D2L)
-- Suggested Reading:    
+
+- Suggested Reading: Ch 15 - CH 18
 
 ##### Class Overview
 
@@ -197,7 +198,7 @@
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Suggested Reading:  Ch 21 & Ch 24
 
 
 ##### Class Overview
@@ -228,7 +229,7 @@
 ##### Weekly Materials
 
 - Video Lectures:
-- Suggested Reading:    
+- Suggested Reading: Ch. 9
 
 ##### Class Overview
 
