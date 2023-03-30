@@ -173,7 +173,7 @@
 
 - Tuesday March 28: [Activity 11](https://github.com/stat456/Activities/blob/main/Activity11.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity11.Rmd)) (Submit Activity to D2L)
 
-- Thursday March 30: 
+- Thursday March 30:  [Lab 11](https://github.com/stat456/labs/blob/main/Lab11_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab11_2023.Rmd)) (Submit Lab to D2L by Apr 4 at 9:30 AM)
 
 ---
 
