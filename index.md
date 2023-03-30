@@ -181,7 +181,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures:
+- Video Lectures:([PDF Notes](https://github.com/stat456/Notes/blob/main/Week12_key.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek12_key.Rmd)) (Submit to D2L)
 - Suggested Reading:    
 
 ##### Class Overview
