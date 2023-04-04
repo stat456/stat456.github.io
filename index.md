@@ -197,6 +197,8 @@
 
 ##### Weekly Materials
 
+- [HW 4](https://github.com/stat456/HW/blob/main/HW4_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW4_2023.Rmd)) (Due Tuesday Apr 11, submit to D2L)
+
 - Video Lectures:
 - Suggested Reading:  Ch 21 & Ch 24
 
