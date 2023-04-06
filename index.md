@@ -199,7 +199,7 @@
 
 - [HW 4](https://github.com/stat456/HW/blob/main/HW4_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW4_2023.Rmd)) (Due Tuesday Apr 11, submit to D2L)
 
-- Video Lectures:
+- Video Lectures: [Week 13 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c06401d-72c7-46d9-8fcc-afdc01479d53) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week13.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek13.Rmd)) (Submit to D2L)
 - Suggested Reading:  Ch 21 & Ch 24
 
 
@@ -251,9 +251,9 @@
 
 ##### Class Overview
 
-- Tuesday May 2: 
+- Tuesday May 2: Final Review
 
-- Thursday May 4: 
+- Thursday May 4: __No Class: work on final exam__
 
 ---
 
