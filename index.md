@@ -189,7 +189,7 @@
 
 - Tuesday April 4: [Activity 12](https://github.com/stat456/Activities/blob/main/Activity12.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity12.Rmd)) (Submit Activity to D2L)
 
-- Thursday April 6:
+- Thursday April 6: [Lab 12](https://github.com/stat456/labs/blob/main/Lab12_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab12_2023.Rmd)) (Submit Lab to D2L by Apr 11 at 9:30 AM)
 
 ---
 
