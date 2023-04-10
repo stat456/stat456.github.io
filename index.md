@@ -255,13 +255,13 @@
 
 - Tuesday May 2: Final Review
 
-- Thursday May 4: __No Class: work on final exam__
+- Thursday May 4: __No Class: work on take-home final exam__
 
 ---
 
 #### Week Seventeen: Finals Week
 
-- Tuesday May 9, 8 - 9:50:
+- Tuesday May 9, 8 - 9:50 __in class final exam__
 
 
 
