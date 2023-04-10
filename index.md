@@ -216,6 +216,7 @@
 ##### Weekly Materials
 
 - [Project Overview](https://github.com/stat456/Project/blob/main/ProjectOverview_2023.pdf)
+- [Presentation Rubric](https://github.com/stat456/Project/blob/main/PresentationRubric.pdf)
 
 
 ##### Class Overview
