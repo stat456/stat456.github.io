@@ -205,7 +205,7 @@
 
 ##### Class Overview
 
-- Tuesday April 11: 
+- Tuesday April 11: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity13.Rmd)) (Submit Activity to D2L)
 
 - Thursday April 13: 
   
