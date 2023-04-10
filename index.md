@@ -245,6 +245,7 @@
 #### Week Sixteen: 
 
 ##### Weekly Materials
+- Written Project Due (Due Tuesday May 2 at 9 AM, submit to D2L)
 
 - Video Lectures:
 - Suggested Reading:    
