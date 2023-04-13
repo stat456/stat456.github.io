@@ -221,10 +221,21 @@
 
 ##### Class Overview
 
-- Tuesday April 18: 
+- Tuesday April 18
+   - Harley & Jordyn
+   - Abram & Jacob 
+   - Addison
+   - Eliot, Ellis, & Seth  
+   - Mark (recorded)
+   - Amber & Lydia (recorded)
 
 - Thursday April 20:
-
+   - Therese 
+   - Becky 
+   - Elise 
+   - Aiden, Drew, & Meghan (recorded)
+   - Riley 
+   - Nick
 ---
 
 #### Week Fifteen: Bayesian Hierarchical Models
