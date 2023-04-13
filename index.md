@@ -207,7 +207,7 @@
 
 - Tuesday April 11: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity13.Rmd)) (Submit Activity to D2L)
 
-- Thursday April 13: [Lab 13](https://github.com/stat456/labs/blob/main/Lab13_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab13_2023.Rmd)) (Submit Lab to D2L by Apr 18 at 9:30 AM)
+- Thursday April 13: [Lab 13](https://github.com/stat456/labs/blob/main/Lab13_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab13_2023.Rmd)) (Submit Lab to D2L by Apr 25 at 9:30 AM)
   
 ---
 
