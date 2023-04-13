@@ -236,6 +236,7 @@
    - Aiden, Drew, & Meghan (recorded)
    - Riley 
    - Nick
+   
 ---
 
 #### Week Fifteen: Bayesian Hierarchical Models
