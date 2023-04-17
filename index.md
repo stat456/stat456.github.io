@@ -227,7 +227,8 @@
    - Addison
    - Eliot, Ellis, & Seth  
    - Mark (recorded)
-   - Amber & Lydia (recorded)
+   - Amber (recorded)
+   - Lydia (recorded)
 
 - Thursday April 20:
    - Therese 
