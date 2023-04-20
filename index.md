@@ -228,15 +228,15 @@
    - Eliot, Ellis, & Seth  
    - Mark (recorded)
    - Amber (recorded)
-   - Lydia (recorded)
+   - Riley (recorded)
 
 - Thursday April 20:
    - Therese 
    - Becky 
    - Elise 
-   - Aiden, Drew, & Meghan (recorded)
-   - Riley 
    - Nick
+   - Aiden, Drew, & Meghan (recorded)
+   - Lydia (recorded)
    
 ---
 
