@@ -239,7 +239,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures:  ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week15.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek15.Rmd)) (Submit to D2L)
+- Video Lectures: [Week 15 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f5cd643-f5f0-4c24-b145-afee013bd60d) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week15.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek15.Rmd)) (Submit to D2L)
 - Suggested Reading: Ch. 9
 
 ##### Class Overview
