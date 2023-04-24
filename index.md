@@ -207,7 +207,7 @@
 
 - Tuesday April 11: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity13.Rmd)) (Submit Activity to D2L)
 
-- Thursday April 13: [Lab 13](https://github.com/stat456/labs/blob/main/Lab13_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab13_2023.Rmd)) (Submit Lab to D2L by Apr 25 at 9:30 AM)
+- Thursday April 13: [Lab 13](https://github.com/stat456/labs/blob/main/Lab13_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab13_2023.Rmd)) (Submit Lab to D2L by Apr 27 at 9:30 AM)
   
 ---
 
@@ -230,13 +230,8 @@
    - Amber (recorded)
    - Riley (recorded)
 
-- Thursday April 20:
-   - Therese 
-   - Becky 
-   - Elise 
-   - Nick
-   - Aiden, Drew, & Meghan (recorded)
-   - Lydia (recorded)
+- Thursday April 20: Hierarchical Model Lecture  
+
    
 ---
 
@@ -244,12 +239,18 @@
 
 ##### Weekly Materials
 
-- Video Lectures:
+- Video Lectures:  ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week15.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek15.Rmd)) (Submit to D2L)
 - Suggested Reading: Ch. 9
 
 ##### Class Overview
 
 - Tuesday April 25:
+   - Therese 
+   - Elise 
+   - Nick
+   - Becky (recorded?)
+   - Aiden, Drew, & Meghan (recorded)
+   - Lydia (recorded)
 
 - Thursday April 27:
 
@@ -266,7 +267,7 @@
 
 ##### Class Overview
 
-- Tuesday May 2: Final Review
+- Tuesday May 2: Final Review & Take Home Exam Assigned
 
 - Thursday May 4: __No Class: work on take-home final exam__
 
