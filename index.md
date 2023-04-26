@@ -252,7 +252,7 @@
    - Aiden, Drew, & Meghan (recorded)
    - Lydia (recorded)
 
-- Thursday April 27:
+- Thursday April 27:  [Activity 15](https://github.com/stat456/Activities/blob/main/Activity15.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity15.Rmd)) (Submit Activity to D2L)
 
 ---
 
