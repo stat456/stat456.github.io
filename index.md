@@ -259,10 +259,7 @@
 #### Week Sixteen: 
 
 ##### Weekly Materials
-- Written Project Due (Due Tuesday May 2 at 9 AM, submit to D2L) ([Written Project Rubric](https://github.com/stat456/Project/blob/main/ProjectRubric.pdf))
-
-- Video Lectures:
-- Suggested Reading:    
+- Written Project Due (Due Tuesday May 4 at 9 AM, submit to D2L) ([Written Project Rubric](https://github.com/stat456/Project/blob/main/ProjectRubric.pdf))
 
 
 ##### Class Overview
