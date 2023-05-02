@@ -264,7 +264,7 @@
 
 ##### Class Overview
 
-- Tuesday May 2: Final Review & Take Home Exam Assigned
+- Tuesday May 2: Final Review & [Take Home Exam Assigned](https://github.com/stat456/Exams/blob/main/Final_2023.pdf) ([RMD Source Code](https://github.com/stat456/Exams/blob/main/Final_2023.Rmd)) (Due Wednesday May 10th at 5 PM)
 
 - Thursday May 4: __No Class: work on take-home final exam__
 
