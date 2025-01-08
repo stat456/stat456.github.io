@@ -96,7 +96,8 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Class Overview 
 
-- Thursday January 19: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
+- Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
+- Thursday January 16: 
 
 ---
 
@@ -104,19 +105,20 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Weekly Materials
 
-- [Homework 0, due Tuesday January 24th](https://github.com/stat456/HW/raw/main/HW0.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/HW/main/HW0.Rmd)) (Submit to Gradescope)
-- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week2.Rmd)) (Submit your notes to D2L)
+- [Homework 1, due Tuesday January 24th](https://github.com/stat456/HW/raw/main/HW0.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/HW/main/HW0.Rmd)) (Submit to Gradescope)
+- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week2.Rmd)) (Submit your notes to Gradescope)
 
 - Course Reading: Ch 1 & Ch 2   
  
 
 ##### Class Overview
 
-- Tuesday January 24: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd)) 
+- Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd)) 
 
-- Thursday January 26: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to D2L by Tuesday, January 31) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab1_2023_key.pdf), [RMD Key](https://github.com/stat456/labs/blob/main/Lab1_2023_key.Rmd))
-
+- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to Gradescope by Tuesday, January 28) 
 ---
+
+<!---
 
 #### Week Three: Probability and Monte Carlo Procedures in R 
 
@@ -362,7 +364,4 @@ Federal law mandates the provision of services at the university-level to qualif
 #### Week Seventeen: Finals Week
 
 - Tuesday May 9, 8 - 9:50 __in class final exam__
-
-
-
-
+-->
