@@ -97,9 +97,11 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Class Overview 
 
 - Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
-- Thursday January 16: 
+- Thursday January 16: Statistical Computing overview - R / Quarto / ggplot / jags
 
 ---
+
+<!---
 
 #### Week Two: Bayesian Analysis and Statistical Models
 
@@ -118,7 +120,6 @@ Federal law mandates the provision of services at the university-level to qualif
 - Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to Gradescope by Tuesday, January 28) 
 ---
 
-<!---
 
 #### Week Three: Probability and Monte Carlo Procedures in R 
 
