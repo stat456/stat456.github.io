@@ -2,6 +2,8 @@
 
 This course will introduce the basic ideas of Bayesian statistics and provide a contrast with techniques for classical inference. The course focuses on both the philosophical foundations and practical implementation of Bayesian methods.
 
+A PDF version of the syllabus is available [here](https://github.com/stat456/syllabus/blob/main/STAT456_syllabus.pdf)
+
 ### Learning Outcomes:
 
 At the completion of this course, students will be able to:
