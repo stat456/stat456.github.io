@@ -19,6 +19,12 @@ At the completion of this course, students will be able to:
 
 - Doing Bayesian Data Analysis, Second Edition, by John Kruschke 
 
+### Office Hours
+
+- Tuesday 8:30 - 9:15
+- Tuesday 12:30 - 2
+- Thursday 8:30 - 9:15
+
 ---
 
 #### Core Designation (R)
