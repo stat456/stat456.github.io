@@ -3,8 +3,8 @@
 
 ##### Class Overview 
 
-- Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
-- Thursday January 16: [Statistical Computing overview - R / Quarto / ggplot / JAGS](https://github.com/stat456/Activities/blob/main/Week1.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Week1.qmd))
+- Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd)), ([Activity Key](https://github.com/stat456/Activities/blob/main/Activity1_key.pdf))
+- Thursday January 16: [Statistical Computing overview - R / Quarto / ggplot / JAGS](https://github.com/stat456/Activities/blob/main/Week1.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Week1.qmd)), ([Demo Key](https://github.com/stat456/Activities/blob/main/Week1_key.md))
 
 ---
 
