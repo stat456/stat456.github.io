@@ -1,4 +1,28 @@
-#### Course Description
+#### Week One: Course Introduction
+
+##### Weekly Materials
+
+
+##### Class Overview 
+
+- Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
+- Thursday January 16: [Statistical Computing overview - R / Quarto / ggplot / JAGS](https://github.com/stat456/Activities/blob/main/Week1.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Week1.qmd))
+
+---
+
+
+#### Week Two: Bayesian Analysis and Statistical Models
+
+##### Weekly Materials
+
+- [Homework 1, due EOD Tuesday January 21st](https://github.com/stat456/HW/blob/main/HW1.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/HW/refs/heads/main/HW1.qmd)) (Submit to Gradescope)
+- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week2.Rmd)) 
+
+- Course Reading: Ch 1 & Ch 2
+
+---
+
+ #### Course Description
 
 This course will introduce the basic ideas of Bayesian statistics and provide a contrast with techniques for classical inference. The course focuses on both the philosophical foundations and practical implementation of Bayesian methods.
 
@@ -97,27 +121,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-#### Week One: Course Introduction
-
-##### Weekly Materials
-
-
-##### Class Overview 
-
-- Tuesday January 14: [Course Overview and Introductory Activity](https://github.com/stat456/Activities/blob/main/Activity1.pdf) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Lecture1.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Lecture1.Rmd))
-- Thursday January 16: [Statistical Computing overview - R / Quarto / ggplot / JAGS](https://github.com/stat456/Activities/blob/main/Week1.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Week1.qmd))
-
----
-
-
-#### Week Two: Bayesian Analysis and Statistical Models
-
-##### Weekly Materials
-
-- [Homework 1, due EOD Tuesday January 21st](https://github.com/stat456/HW/blob/main/HW1.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/HW/refs/heads/main/HW1.qmd)) (Submit to Gradescope)
-- Video Lectures: [Week 2 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbde6cb-20c6-4afd-8532-af8a00108897) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week2.pdf)),  ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week2.Rmd)) 
-
-- Course Reading: Ch 1 & Ch 2   
+ 
  
 <!---
 ##### Class Overview
