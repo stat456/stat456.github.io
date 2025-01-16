@@ -1,7 +1,5 @@
 #### Week One: Course Introduction
 
-##### Weekly Materials
-
 
 ##### Class Overview 
 
