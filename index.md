@@ -22,7 +22,7 @@
 
 - Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity2.qmd)) 
 
-- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab1.qmd)) (Submit to Gradescope by Tuesday, January 28)
+- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab1.qmd)) (Submit to Gradescope by Thursday, January 30)
   
 ---
 
