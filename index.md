@@ -18,6 +18,13 @@
 
 - Course Reading: Ch 1 & Ch 2
 
+##### Class Overview
+
+- Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity2.qmd)) 
+
+- Thursday January 23: (Submit to Gradescope by Tuesday, January 28) 
+---
+
 ---
 
 #### Course Description
@@ -122,12 +129,7 @@ Federal law mandates the provision of services at the university-level to qualif
  
  
 <!---
-##### Class Overview
 
-- Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity2.Rmd)) 
-
-- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1_2023.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat456/labs/main/Lab1_2023.Rmd?token=GHSAT0AAAAAAB5IZAJIVIZRWKWFCLAMS246Y6RYAZQ)) (Submit to Gradescope by Tuesday, January 28) 
----
 
 
 
