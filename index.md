@@ -26,6 +26,23 @@
   
 ---
 
+
+#### Week Three: Probability and Monte Carlo Procedures in R 
+
+##### Weekly Materials
+
+- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd)) (Submit Notes to D2L)
+- Course Reading: Ch 4
+
+
+##### Class Overview
+
+- Tuesday January 28: Activity 3: Probability
+
+- Thursday January 30: Lab 2
+
+---
+
 ---
 
 #### Course Description
@@ -134,21 +151,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 
-#### Week Three: Probability and Monte Carlo Procedures in R 
 
-##### Weekly Materials
-
-- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd)) (Submit Notes to D2L)
-- Course Reading: Ch 4
-
-
-##### Class Overview
-
-- Tuesday January 31: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity3.Rmd)) (Submit Activity to D2L)
-
-- Thursday February 2: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab2_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 7 at 9:30 AM) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab2_2023_key.pdf)) ([RMD Key](https://github.com/stat456/labs/blob/main/Lab2_2023_key.Rmd))
-
----
 
 #### Week Four: Conditional Probability and Bayes Rule
 
