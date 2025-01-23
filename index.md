@@ -22,7 +22,7 @@
 
 - Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity2.qmd)) 
 
-- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab1.qmd)) (Submit to Gradescope by Thursday, January 30)
+- Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab1.qmd)) (Submit to Gradescope by Thursday, January 30) ([Lab Groups](https://github.com/stat456/labs/blob/main/GroupAssignment.md))
   
 ---
 
@@ -31,7 +31,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd)) (Submit Notes to D2L)
+- Video Lectures: [Week 3 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7217658-87f9-4c7d-a5a5-af960038db5f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week3.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week3.Rmd)) (Submit Notes to Gradescope)
 - Course Reading: Ch 4
 
 
