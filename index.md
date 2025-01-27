@@ -37,7 +37,7 @@
 
 ##### Class Overview
 
-- Tuesday January 28: Activity 3: Probability
+- Tuesday January 28: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity3.qmd))
 
 - Thursday January 30: Lab 2
 
