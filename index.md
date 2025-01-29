@@ -43,6 +43,22 @@
 
 ---
 
+#### Week Four: Conditional Probability and Bayes Rule
+
+##### Weekly Materials
+
+- Video Lectures: [Week 4 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d146f42-3d07-49db-b96b-af9d0173554c) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week4.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week4.Rmd)) (Submit Notes to D2L)
+- Course Reading: Ch 5
+
+
+##### Class Overview
+
+- Tuesday February 7: Activity 4
+
+- Thursday February 9: Lab 3
+
+---
+
 ---
 
 #### Course Description
@@ -153,21 +169,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 
-#### Week Four: Conditional Probability and Bayes Rule
 
-##### Weekly Materials
-
-- Video Lectures: [Week 4 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d146f42-3d07-49db-b96b-af9d0173554c) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week4.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week4.Rmd)) (Submit Notes to D2L)
-- Course Reading: Ch 5
-
-
-##### Class Overview
-
-- Tuesday February 7: [Activity 4](https://github.com/stat456/Activities) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity4.Rmd)) (Submit Activity to D2L) [Video Recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b04b52-e1f2-4814-9ab3-afa401033b51)
-
-- Thursday February 9: [Lab 3](https://github.com/stat456/labs/blob/main/Lab3_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab3_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 14 at 9:30 AM) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab3_2023_key.pdf)) ([RMD Key](https://github.com/stat456/labs/blob/main/Lab3_2023_key.Rmd))
-
----
 
 #### Week Five: Binomial Probability, Exact Analysis
 
