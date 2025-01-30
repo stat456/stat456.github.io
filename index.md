@@ -39,7 +39,7 @@
 
 - Tuesday January 28: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity3.qmd))
 
-- Thursday January 30: Lab 2
+- Thursday January 30: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2.pdf) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab2.qmd)) (Submit to Gradescope by 9:25 AM on Thursday, February 6)
 
 ---
 
