@@ -47,7 +47,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures: [Week 4 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d146f42-3d07-49db-b96b-af9d0173554c) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week4.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week4.Rmd)) (Submit Notes to D2L)
+- Video Lectures: [Week 4 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d146f42-3d07-49db-b96b-af9d0173554c) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week4.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week4.Rmd)) (Submit Notes to Gradescope)
 - Course Reading: Ch 5
 
 
