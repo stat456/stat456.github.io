@@ -20,7 +20,7 @@
 
 ##### Class Overview
 
-- Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity2.qmd)) 
+- Tuesday January 21: [Activity 2: Priors & Reallocation of Credibility](https://github.com/stat456/Activities/blob/main/Activity2.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity2.qmd)) ([MD Key](https://github.com/stat456/Activities/blob/main/Activity2_key.md))
 
 - Thursday January 23: [Lab 1](https://github.com/stat456/labs/blob/main/Lab1.md) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab1.qmd)) (Submit to Gradescope by Thursday, January 30) ([Lab Groups](https://github.com/stat456/labs/blob/main/GroupAssignment.md))
   
@@ -37,7 +37,7 @@
 
 ##### Class Overview
 
-- Tuesday January 28: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity3.qmd))
+- Tuesday January 28: [Activity 3: Probability](https://github.com/stat456/Activities/blob/main/Activity3.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity3.qmd)) ([MD Key](https://github.com/stat456/Activities/blob/main/Activity3_key.md)
 
 - Thursday January 30: [Lab 2](https://github.com/stat456/labs/blob/main/Lab2.pdf) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab2.qmd)) (Submit to Gradescope by 9:25 AM on Thursday, February 6)
 
@@ -53,7 +53,7 @@
 
 ##### Class Overview
 
-- Tuesday February 7: Activity 4
+- Tuesday February 7: [Activity 4](https://github.com/stat456/Activities/blob/main/Activity4.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity4.qmd))
 
 - Thursday February 9: Lab 3
 
