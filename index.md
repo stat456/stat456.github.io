@@ -53,9 +53,26 @@
 
 ##### Class Overview
 
-- Tuesday February 7: [Activity 4](https://github.com/stat456/Activities/blob/main/Activity4.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity4.qmd))
+- Tuesday February 4: [Activity 4](https://github.com/stat456/Activities/blob/main/Activity4.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity4.qmd))
 
-- Thursday February 9: Lab 3
+- Thursday February 6: Lab 3
+
+---
+
+#### Week Five: Binomial Probability, Exact Analysis
+
+##### Weekly Materials
+
+- Video Lectures: Week 5 module
+- Course Reading: Ch 6
+- [Project Proposal](https://github.com/stat456/Project/blob/main/ProjectProposal.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectProposal.qmd)) (Due Tuesday Feb 11 EOD, submit to Gradescope)
+
+
+##### Class Overview
+
+- Tuesday February 11: Activity 5
+
+- Thursday February 13: Lab 4
 
 ---
 
