@@ -66,6 +66,11 @@
 - Video Lectures: Week 5 module
 - Course Reading: Ch 6
 - [Project Proposal](https://github.com/stat456/Project/blob/main/ProjectProposal.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectProposal.qmd)) (Due Tuesday Feb 11 EOD, submit to Gradescope)
+- Potential Data Sources:
+  - [data.gov](https://data.gov)
+  - [Kaggle datasets](https://www.kaggle.com/datasets)
+  - [Google dataset search](https://datasetsearch.research.google.com)
+  - [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief)  
 
 
 ##### Class Overview
