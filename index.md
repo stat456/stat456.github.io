@@ -55,7 +55,7 @@
 
 - Tuesday February 4: [Activity 4](https://github.com/stat456/Activities/blob/main/Activity4.md) ([QMD Source](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity4.qmd))
 
-- Thursday February 6: Lab 3
+- Thursday February 6: [Lab 3](https://github.com/stat456/labs/blob/main/Lab3.pdf) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab3.qmd))
 
 ---
 
