@@ -63,7 +63,7 @@
 
 ##### Weekly Materials
 
-- Video Lectures: Week 5 module
+- Video Lectures:  [Week 5 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79d645f7-906d-4a2b-9e3c-afa5012da975) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week5.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week5.Rmd)) (Submit Notes to Gradescope)
 - Course Reading: Ch 6
 - [Project Proposal](https://github.com/stat456/Project/blob/main/ProjectProposal.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectProposal.qmd)) (Due Tuesday Feb 11 EOD, submit to Gradescope)
 - Potential Data Sources:
