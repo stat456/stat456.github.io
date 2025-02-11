@@ -65,7 +65,7 @@
 
 - Video Lectures:  [Week 5 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79d645f7-906d-4a2b-9e3c-afa5012da975) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week5.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week5.Rmd)) (Submit Notes to Gradescope)
 - Course Reading: Ch 6
-- [Project Proposal](https://github.com/stat456/Project/blob/main/ProjectProposal.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectProposal.qmd)) (Due Tuesday Feb 11 EOD, submit to Gradescope)
+- [Project Proposal](https://github.com/stat456/Project/blob/main/ProjectProposal.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectProposal.qmd)) (Due Tuesday Feb 13 EOD, submit to Gradescope)
 - Potential Data Sources:
   - [data.gov](https://data.gov)
   - [Kaggle datasets](https://www.kaggle.com/datasets)
@@ -75,7 +75,8 @@
 
 ##### Class Overview
 
-- Tuesday February 11: [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity5.qmd))
+- Tuesday February 11: NO CLASS, WORK THROUGH ACTIVITY 5 PRIOR TO THURSDAY
+  -   [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity5.qmd))
 
 - Thursday February 13: Lab 4
 
