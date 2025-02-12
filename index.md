@@ -76,9 +76,9 @@
 ##### Class Overview
 
 - Tuesday February 11: NO CLASS, WORK THROUGH ACTIVITY 5 PRIOR TO THURSDAY
-  -   [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity5.qmd))
+  -   [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity5.qmd)) ([Activity 5 key](https://github.com/stat456/Activities/blob/main/Activity5_key.pdf))
 
-- Thursday February 13: Lab 4
+- Thursday February 13: [Lab 4](https://github.com/stat456/labs/blob/main/Lab4.pdf) ([QMD Source](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab4.qmd))
 
 ---
 
