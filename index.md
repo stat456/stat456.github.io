@@ -92,7 +92,7 @@
 
 ##### Class Overview
 
-- Tuesday February 21: Activity 6
+- Tuesday February 21: [Activity 6](https://github.com/stat456/Activities/blob/main/Activity6.pdf) ([Quarto Source Code](https://github.com/stat456/Activities/blob/main/Activity6.qmd)
 
 
 
