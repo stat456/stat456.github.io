@@ -101,6 +101,42 @@
 
 ---
 
+#### Week Seven: Normal Distribution
+
+##### Weekly Materials
+
+- Video Lectures: [Week 7 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad281f89-376f-4096-835f-afb301477b2e) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week7.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week7.Rmd)) (Submit to Gradescope)
+
+- [Project Motivation](https://github.com/stat456/Project/blob/main/ProjectMotivation.pdf) ([Quarto Source](https://github.com/stat456/Project/blob/main/ProjectMotivation.qmd)) (Due Thursday February 27th, EOD)
+
+##### Class Overview
+
+- Tuesday February 25: 
+
+- Thursday February 27: 
+ 
+
+---
+
+#### Week Eight: Exam Week
+
+##### Weekly Materials
+
+- Video Lectures:
+- Suggested Reading:    
+
+
+##### Class Overview
+
+- Tuesday March 4: Review Day
+
+- Thursday March 6: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
+
+
+
+
+---
+
 #### Course Description
 
 This course will introduce the basic ideas of Bayesian statistics and provide a contrast with techniques for classical inference. The course focuses on both the philosophical foundations and practical implementation of Bayesian methods.
@@ -209,79 +245,6 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 
-
-
-#### Week Five: Binomial Probability, Exact Analysis
-
-##### Weekly Materials
-
-- Video Lectures: [Week 5 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79d645f7-906d-4a2b-9e3c-afa5012da975) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week5.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week5.Rmd)) (Submit Notes to D2L)
-- Course Reading: Ch 6
-- [HW 1](https://github.com/stat456/HW/blob/main/HW1_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW1_2023.Rmd)) (Due Tuesday Feb 14 at 9:30 AM, submit to D2L)
-
-
-##### Class Overview
-
-- Tuesday February 14: [Activity 5](https://github.com/stat456/Activities/blob/main/Activity5.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity5.Rmd)) (Submit Activity to D2L)
-
-- Thursday February 16: [Lab 4](https://github.com/stat456/labs/blob/main/Lab4_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab4_2023.Rmd)) (Submit Lab to D2L by Tuesday Feb 21 at 9:30 AM) ([PDF Key](https://github.com/stat456/labs/blob/main/Lab4_2023_key.pdf)) ([RMD Key](https://github.com/stat456/labs/blob/main/Lab4_2023_key.Rmd))
-
----
-
-#### Week Six: Bayesian Data Analysis + Markov Chain Monte Carlo
-
-##### Weekly Materials
-
-- Video Lectures: [Week 6 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7cf3f2-f2fb-47e4-b331-afab01581732) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week6.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week6.Rmd)) (Submit Notes to D2L)
-- Course Reading: Ch 7
-- [Jags Link](https://mcmc-jags.sourceforge.io)
-
-##### Class Overview
-
-- Tuesday February 21: [Activity 6](https://github.com/stat456/Activities/blob/main/Activity6.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity6.Rmd)) (Submit Activity to D2L)
-
-- Thursday February 23: [Lab 5](https://github.com/stat456/labs/blob/main/Lab5_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab5_2023.Rmd)) (Submit Lab to D2L by Feb 28 at 9:30 AM)
-
-
-
----
-
-#### Week Seven: Normal Distribution
-
-##### Weekly Materials
-
-- Video Lectures: [Week 7 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad281f89-376f-4096-835f-afb301477b2e) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week7.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week7.Rmd)) (Submit to D2L)
-- [HW 2](https://github.com/stat456/HW/blob/main/HW2_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW2_2023.Rmd)) (Due Thursday Mar 2, submit to D2L)
-
-##### Class Overview
-
-- Tuesday February 28: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity7.Rmd)) (Submit Activity to D2L)
-
-- Thursday March 2: No Lab, Finish Activity 7 / Work on old exams
-   - [Midterm 2018](https://github.com/stat456/Exams/blob/main/Midterm_S2018.pdf) ([RMD](https://github.com/stat456/Exams/blob/main/Midterm_S2018.Rmd))
-   - [Midterm 2018 (in class)](https://github.com/stat456/Exams/blob/main/Midterm_S2018_inclass.pdf)
-   - [Final 2018: Q1](https://github.com/stat456/Exams/blob/main/Final_S2018.pdf) ([RMD](https://github.com/stat456/Exams/blob/main/Final_S2018.Rmd))
-   - [Final 2018 (in class): haven't covered most of this](https://github.com/stat456/Exams/blob/main/Final_S2018_inclass.pdf)
- 
-
----
-
-#### Week Eight: Exam Week
-
-##### Weekly Materials
-
-- Video Lectures:
-- Suggested Reading:    
-
-
-##### Class Overview
-
-- Tuesday March 7: Review Day
-
-- Thursday March 9: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
-
-- Monday March 11: Take Home Midterm Exam due at 8 AM.
-  - [PDF](https://github.com/stat456/Exams/blob/main/Midterm2023.pdf) ([RMD Source Code](https://github.com/stat456/Exams/blob/main/Midterm2023.Rmd))  
 
 
 ---
