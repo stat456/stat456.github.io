@@ -111,7 +111,7 @@
 
 ##### Class Overview
 
-- Tuesday February 25: 
+- Tuesday February 25: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity7.qmd))
 
 - Thursday February 27: 
  
@@ -129,6 +129,8 @@
 ##### Class Overview
 
 - Tuesday March 4: Review Day
+    - [2023 Midterm Exam](https://github.com/stat456/Exams/blob/main/Midterm2023.pdf)
+    - [2023 In Class Exam](https://github.com/stat456/Exams/blob/main/InclassMidterm_2023.pdf)
 
 - Thursday March 6: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
 
