@@ -120,22 +120,40 @@
 
 #### Week Eight: Exam Week
 
-##### Weekly Materials
-
-- Video Lectures:
-- Suggested Reading:    
-
 
 ##### Class Overview
 
 - Tuesday March 4: Review Day
     - [2023 Midterm Exam](https://github.com/stat456/Exams/blob/main/Midterm2023.pdf)
     - [2023 In Class Exam](https://github.com/stat456/Exams/blob/main/InclassMidterm_2023.pdf)
+    - Take Home Exam Assigned (Due Tuesday March 11)
 
-- Thursday March 6: In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
+- Thursday March 6:
+    - In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
+    
+---
+
+#### Week Nine: Markov Chain Monte Carlo: Metropolis Algorithm
+
+##### Weekly Materials
 
 
+##### Class Overview
 
+- Tuesday March 11: In class lecture: Metropolis Hastings ([PDF](https://github.com/stat456/Notes/blob/main/Week10.pdf)) ([RMD](https://github.com/stat456/Notes/blob/main/Week10.Rmd))
+
+- Thursday March 13: [Activity 8](https://github.com/stat456/Activities/blob/main/Activity8_key.pdf) ([RMD Source Code](https://github.com/stat456/Activities/blob/main/Activity8_key.Rmd))
+
+
+---
+
+#### Week Ten: Spring Break
+
+- Tuesday March 18:  __spring break__
+
+- Thursday March 20: __spring break__
+
+---
 
 ---
 
@@ -249,15 +267,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 
----
 
-#### Week Nine: Spring Break
-
-- Tuesday March 14:  __spring break__
-
-- Thursday March 16: __spring break__
-
----
 
 #### Week Ten: Markov Chain Monte Carlo: Metropolis Algorithm
 
