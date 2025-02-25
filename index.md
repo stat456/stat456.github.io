@@ -92,7 +92,7 @@
 
 ##### Class Overview
 
-- Tuesday February 18: [Activity 6](https://github.com/stat456/Activities/blob/main/Activity6.pdf) ([Quarto Source Code](https://github.com/stat456/Activities/blob/main/Activity6.qmd)
+- Tuesday February 18: [Activity 6](https://github.com/stat456/Activities/blob/main/Activity6.pdf) ([Quarto Source Code](https://github.com/stat456/Activities/blob/main/Activity6.qmd) ([Key: MD](https://github.com/stat456/Activities/blob/main/Activity6_key.md))
 
 - Thursday February 20: [Lab 5](https://github.com/stat456/labs/blob/main/Lab5.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab5.qmd))
 
@@ -111,7 +111,7 @@
 
 ##### Class Overview
 
-- Tuesday February 25: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity7.qmd))
+- Tuesday February 25: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity7.qmd)) ([Key MD](https://github.com/stat456/Activities/blob/main/Activity7_key.md))
 
 - Thursday February 27: 
  
