@@ -113,7 +113,7 @@
 
 - Tuesday February 25: [Activity 7](https://github.com/stat456/Activities/blob/main/Activity7.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity7.qmd)) ([Key MD](https://github.com/stat456/Activities/blob/main/Activity7_key.md))
 
-- Thursday February 27: 
+- Thursday February 27: [Lab 6](https://github.com/stat456/labs/blob/main/Lab6.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab6.qmd))
  
 
 ---
