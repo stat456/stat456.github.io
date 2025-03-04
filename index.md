@@ -126,7 +126,7 @@
 - Tuesday March 4: Review Day
     - [2023 Midterm Exam](https://github.com/stat456/Exams/blob/main/Midterm2023.pdf)
     - [2023 In Class Exam](https://github.com/stat456/Exams/blob/main/InclassMidterm_2023.pdf)
-    - Take Home Exam Assigned (Due Tuesday March 11)
+    - [Take Home Exam Assigned (Due Tuesday March 11 at 925 AM)](https://github.com/stat456/Exams/blob/main/Midterm2025.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Exams/refs/heads/main/Midterm2025.qmd))
 
 - Thursday March 6:
     - In Class Exam. You are allowed one cheat sheet, handwritten, front and back.
