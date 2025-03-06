@@ -142,7 +142,7 @@
 
 - Tuesday March 11: In class lecture: Metropolis Hastings ([PDF](https://github.com/stat456/Notes/blob/main/Week10.pdf)) ([RMD](https://github.com/stat456/Notes/blob/main/Week10.Rmd))
 
-- Thursday March 13: [Activity 8](https://github.com/stat456/Activities/blob/main/Activity8_key.pdf) ([RMD Source Code](https://github.com/stat456/Activities/blob/main/Activity8_key.Rmd))
+- Thursday March 13: [Lab 7](https://github.com/stat456/labs/blob/main/Lab_MCMC.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab_MCMC.qmd))
 
 
 ---
@@ -152,6 +152,24 @@
 - Tuesday March 18:  __spring break__
 
 - Thursday March 20: __spring break__
+
+---
+
+#### Week Eleven: Posterior Predictive Distributions & Bayesian T-Tests 
+
+##### Weekly Materials
+
+- Suggested Reading: Ch. 11 & Ch. 12
+
+
+- Video Lectures: [Week 11 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00829575-8485-45bd-9fdd-afd0012cc1ce) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to Gradescope)
+- Suggested Reading:    
+
+##### Class Overview
+
+- Tuesday March 28: 
+
+- Thursday March 30:  
 
 ---
 
