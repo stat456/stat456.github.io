@@ -167,11 +167,76 @@
 
 ##### Class Overview
 
-- Tuesday March 28: 
+- Tuesday March 25: 
 
-- Thursday March 30:  
+- Thursday March 27:  
 
 ---
+
+#### Week Twelve:
+
+
+##### Class Overview
+
+- Tuesday April 1: 
+
+- Thursday April 3:  
+
+---
+
+#### Week Thirteen:
+
+
+##### Class Overview
+
+- Tuesday April 8: 
+
+- Thursday April 10:  
+
+---
+
+#### Week Fourteen:
+
+
+##### Class Overview
+
+- Tuesday April 15: 
+
+- Thursday April 17:  
+
+---
+
+#### Week Fifteen:
+
+
+##### Class Overview
+
+- Tuesday April 22: 
+
+- Thursday April 24:  
+
+---
+
+#### Week Sixteen:
+
+
+##### Class Overview
+
+- Tuesday April 29: 
+
+- Thursday May 1:  
+
+---
+
+#### Week Seventeen: Finals Week
+
+
+##### Class Overview
+
+- Tuesday May 6	8:00am-9:50am
+
+---
+
 
 ---
 
