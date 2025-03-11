@@ -161,6 +161,9 @@
 
 - Suggested Reading: Ch. 11 & Ch. 12
 
+- [Project Model](https://github.com/stat456/Project/blob/main/ProjectModel.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Project/refs/heads/main/ProjectModel.qmd)) (Due Thusday March 27 EOD, submit to Gradescope)
+
+
 
 - Video Lectures: [Week 11 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00829575-8485-45bd-9fdd-afd0012cc1ce) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to Gradescope)
 - Suggested Reading:    
@@ -206,7 +209,7 @@
 
 ---
 
-#### Week Fifteen:
+#### Week Fifteen: 
 
 
 ##### Class Overview
@@ -233,7 +236,8 @@
 
 ##### Class Overview
 
-- Tuesday May 6	8:00am-9:50am
+- Tuesday May 6: Project Presenations from 8:00am-9:50am
+
 
 ---
 
