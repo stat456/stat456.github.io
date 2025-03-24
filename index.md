@@ -170,13 +170,13 @@
 
 ##### Class Overview
 
-- Tuesday March 25: 
+- Tuesday March 25: [Activity 11](https://github.com/stat456/Activities/blob/main/Activity11.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity11.qmd)) 
 
 - Thursday March 27:  
 
 ---
 
-#### Week Twelve:
+#### Week Twelve: Bayesian Regression
 
 
 ##### Class Overview
@@ -187,7 +187,7 @@
 
 ---
 
-#### Week Thirteen:
+#### Week Thirteen: Bayesian GLMs 
 
 
 ##### Class Overview
@@ -198,7 +198,8 @@
 
 ---
 
-#### Week Fourteen:
+#### Week Fourteen: Bayesian Hierarchical Models
+
 
 
 ##### Class Overview
@@ -209,14 +210,14 @@
 
 ---
 
-#### Week Fifteen: 
+#### Week Fifteen: Exam Weeek
 
 
 ##### Class Overview
 
-- Tuesday April 22: 
+- Tuesday April 22: Review Day
 
-- Thursday April 24:  
+- Thursday April 24: In Class Exam
 
 ---
 
