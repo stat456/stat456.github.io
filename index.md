@@ -172,7 +172,7 @@
 
 - Tuesday March 25: [Activity 11](https://github.com/stat456/Activities/blob/main/Activity11.md) ([Quarto Source Cdoe](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity11.qmd)) 
 
-- Thursday March 27:  
+- Thursday March 27: [Lab 8](https://github.com/stat456/labs/blob/main/Lab8.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab8.qmd)) 
 
 ---
 
