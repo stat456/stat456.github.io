@@ -178,6 +178,9 @@
 
 #### Week Twelve: Bayesian Regression
 
+- Video Lectures:  [Week 12 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3b8e4a8-8442-4492-8646-afd501580f3f) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week12_key.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek12_key.Rmd)) (Submit to Gradescope)
+
+- Suggested Reading: Ch 15 - CH 18
 
 ##### Class Overview
 
@@ -357,36 +360,6 @@ Federal law mandates the provision of services at the university-level to qualif
 
 
 
-#### Week Ten: Markov Chain Monte Carlo: Metropolis Algorithm
-
-##### Weekly Materials
-
-
-##### Class Overview
-
-- Tuesday March 21: In class lecture: Metropolis Hastings ([PDF](https://github.com/stat456/Notes/blob/main/Week10.pdf)) ([RMD](https://github.com/stat456/Notes/blob/main/Week10.Rmd))
-
-- Thursday March 23: [Activity 8](https://github.com/stat456/Activities/blob/main/Activity8_key.pdf) ([RMD Source Code](https://github.com/stat456/Activities/blob/main/Activity8_key.Rmd))
-
-
----
-
-#### Week Eleven: Bayesian T-Tests 
-
-##### Weekly Materials
-- [HW 3](https://github.com/stat456/HW/blob/main/HW3_2023.pdf) ([RMD Source Code](https://github.com/stat456/HW/blob/main/HW3_2023.Rmd)) (Due Tuesday Mar 28, submit to D2L)
-
-- Suggested Reading: Ch. 11 & Ch. 12
-
-
-- Video Lectures: [Week 11 module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00829575-8485-45bd-9fdd-afd0012cc1ce) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week11.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/Week11.Rmd)) (Submit to D2L)
-- Suggested Reading:    
-
-##### Class Overview
-
-- Tuesday March 28: [Activity 11](https://github.com/stat456/Activities/blob/main/Activity11.pdf) ([RMD Source](https://github.com/stat456/Activities/blob/main/Activity11.Rmd)) (Submit Activity to D2L)
-
-- Thursday March 30:  [Lab 11](https://github.com/stat456/labs/blob/main/Lab11_2023.pdf) ([RMD Source](https://github.com/stat456/labs/blob/main/Lab11_2023.Rmd)) (Submit Lab to D2L by Apr 4 at 9:30 AM)
 
 ---
 
