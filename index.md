@@ -213,7 +213,7 @@
 
 ---
 
-#### Week Fifteen: Exam Weeek
+#### Week Fifteen: Exam Week
 
 
 ##### Class Overview
