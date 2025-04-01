@@ -184,9 +184,9 @@
 
 ##### Class Overview
 
-- Tuesday April 1: [Activity 12](https://github.com/stat456/Activities/blob/main/Activity12.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity12.qmd))
+- Tuesday April 1: [Activity 12](https://github.com/stat456/Activities/blob/main/Activity12.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity12.qmd)) ([Key: Quarto](https://github.com/stat456/Activities/blob/main/Activity12_key.qmd))
 
-- Thursday April 3:  
+- Thursday April 3: [Lab 9](https://github.com/stat456/labs/blob/main/Lab9.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab9.qmd)) 
 
 ---
 
