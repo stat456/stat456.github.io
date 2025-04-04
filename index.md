@@ -192,6 +192,10 @@
 
 #### Week Thirteen: Bayesian GLMs 
 
+- Video Lectures: [Week 13 Module](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c06401d-72c7-46d9-8fcc-afdc01479d53) ([PDF Notes](https://github.com/stat456/Notes/blob/main/Week13.pdf)) ([RMD Notes](https://github.com/stat456/Notes/blob/main/WWeek13.Rmd)) (Submit to Gradescope)
+  
+- Suggested Reading:  Ch 21 & Ch 24
+
 
 ##### Class Overview
 
