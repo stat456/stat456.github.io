@@ -219,7 +219,7 @@
 
 #### Week Fifteen: Exam Week
 
-- Project Analysis Due (Due Tuesday April 22, submit to Gradescope)
+- [Project Analysis Due](https://github.com/stat456/Project/blob/main/ProjectAnalysis.pdf) (Due Tuesday April 22, submit to Gradescope)
 
 ##### Class Overview
 
