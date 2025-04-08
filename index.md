@@ -201,7 +201,7 @@
 
 - Tuesday April 8: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13.qmd)) 
 
-- Thursday April 10:  
+- Thursday April 10: [Lab 10](https://github.com/stat456/labs/blob/main/Lab10.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab10.qmd))  
 
 ---
 
