@@ -234,9 +234,9 @@
 
 ##### Class Overview
 
-- Tuesday April 29: 
+- Tuesday April 29: Project Peer Review?
 
-- Thursday May 1:  
+- Thursday May 1:  Project Peer Review?
 
 ---
 
