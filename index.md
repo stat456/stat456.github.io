@@ -199,7 +199,7 @@
 
 ##### Class Overview
 
-- Tuesday April 8: 
+- Tuesday April 8: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13.qmd)) 
 
 - Thursday April 10:  
 
