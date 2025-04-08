@@ -219,6 +219,7 @@
 
 #### Week Fifteen: Exam Week
 
+- Project Analysis Due (Due Tuesday April 22, submit to Gradescope)
 
 ##### Class Overview
 
@@ -244,7 +245,7 @@
 
 ##### Class Overview
 
-- Tuesday May 6: Project Presenations from 8:00am-9:50am
+- Tuesday May 6: Project Presentations from 8:00am-9:50am
 
 
 ---
