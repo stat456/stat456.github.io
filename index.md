@@ -225,6 +225,7 @@
 ##### Class Overview
 
 - Tuesday April 22: Review Day
+    - [Repo of past exams](https://github.com/stat456/Exams)
 
 - Thursday April 24: In Class Exam
 
