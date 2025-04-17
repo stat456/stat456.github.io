@@ -214,7 +214,7 @@
 
 - Tuesday April 15: [Activity 14](https://github.com/stat456/Activities/blob/main/Activity14.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity14.qmd)) ([Key: MD](https://github.com/stat456/Activities/blob/main/Activity14_key.md)) ([Key: QMD](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity14_key.qmd))
 
-- Thursday April 17:  
+- Thursday April 17:  [Lab 11](https://github.com/stat456/labs/blob/main/Lab11.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab11.qmd))  
 
 ---
 
