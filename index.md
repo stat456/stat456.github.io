@@ -226,6 +226,7 @@
 
 - Tuesday April 22: Review Day
     - [Repo of past exams](https://github.com/stat456/Exams)
+    - Take Home Exam assigned
 
 - Thursday April 24: In Class Exam
 
@@ -236,9 +237,10 @@
 
 ##### Class Overview
 
-- Tuesday April 29: Project Peer Review?
+- Tuesday April 29: Project Peer Review
+    - Take Home Exam Due 
 
-- Thursday May 1:  Project Peer Review?
+- Thursday May 1:  Bonus Lecture
 
 ---
 
