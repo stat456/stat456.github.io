@@ -226,7 +226,7 @@
 
 - Tuesday April 22: Review Day
     - [Repo of past exams](https://github.com/stat456/Exams)
-    - Take Home Exam assigned
+    - [Take Home Exam assigned](https://github.com/stat456/Exams/blob/main/Final2025.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat456/Exams/refs/heads/main/Final2025.qmd))
 
 - Thursday April 24: In Class Exam
 
