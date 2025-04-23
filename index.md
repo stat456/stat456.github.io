@@ -237,7 +237,7 @@
 
 ##### Class Overview
 
-- Tuesday April 29: Project Peer Review
+- Tuesday April 29: Project Peer Review (Bring 2 copies of your project. 10 points awarded for attendance and participation)
     - Take Home Exam Due 
 
 - Thursday May 1:  Bonus Lecture
