@@ -199,7 +199,7 @@
 
 ##### Class Overview
 
-- Tuesday April 8: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13.qmd)) ([Key: MD](https://github.com/stat456/Activities/blob/main/Activity13_key.md])) ([Key: QMD])(https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13_key.qmd))
+- Tuesday April 8: [Activity 13](https://github.com/stat456/Activities/blob/main/Activity13.md) ([Quarto Source Code](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13.qmd)) ([Key: MD](https://github.com/stat456/Activities/blob/main/Activity13_key.md)) ([Key: QMD](https://raw.githubusercontent.com/stat456/Activities/refs/heads/main/Activity13_key.qmd))
 
 - Thursday April 10: [Lab 10](https://github.com/stat456/labs/blob/main/Lab10.md) ([QMD Source Code](https://raw.githubusercontent.com/stat456/labs/refs/heads/main/Lab10.qmd))  
 
