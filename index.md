@@ -240,7 +240,7 @@
 - Tuesday April 29: Project Peer Review (Bring 2 copies of your project. 10 points awarded for attendance and participation)
     - Take Home Exam Due 
 
-- Thursday May 1:  Bonus Lecture
+- Thursday May 1:  [Bonus Lecture](https://github.com/stat456/Activities/blob/main/Bonus_Activity.md)
 
 ---
 
@@ -250,6 +250,7 @@
 ##### Class Overview
 
 - Tuesday May 6: Project Presentations from 8:00am-9:50am
+- Thursday May 8: Written Project Paper due at 12:00
 
 
 ---
